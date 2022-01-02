@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dFp70v+zhMNd5QkP21ih20DhPR5HIwZZ1EJB8IdLEFSZyN75ZZxDklSMNsozZ6dbCTXk8Dg9qPvzyTYRWb8Uw==",
+  "success": true,
+  "projectFilePath": "C:\\JWebDev\\JAspNet3.1\\JAspNetMVCWebApp\\JAspNetMVCWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
